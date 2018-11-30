@@ -1,0 +1,11 @@
+
+ Volume in drive C has no label.
+ Volume Serial Number is 8047-88E1
+
+ Directory of C:\Users\Naveen\Desktop\myproj
+
+11/30/2018  02:04 PM    <DIR>          .
+11/30/2018  02:04 PM    <DIR>          ..
+11/30/2018  02:04 PM                 0 src.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  67,122,331,648 bytes free
